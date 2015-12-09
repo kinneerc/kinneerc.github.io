@@ -4,7 +4,7 @@ title: Cody Kinneer
 ---
 {% include JB/setup %}
 
-![My helpful screenshot]({{ site.url }}/assets/CodyKinneer.jpg =100x200)
+![Cody Kinneer]({{ site.url }}/assets/CodyKinneer.jpg =100x200)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
