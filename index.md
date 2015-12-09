@@ -8,9 +8,11 @@ title: Cody Kinneer
 
 ## Publications
 [Automatically Evaluating The Efficiency Of Search-based Test Data Generation For Relational Database Schemas]({{ site.url }}/assets/seke2015-kinneer-kapfhammer-wright-mcminn.pdf)
+
 Authors: Cody Kinneer, Gregory M. Kapfhammer, Chris J. Wright, and Phil McMinn 
 
 [Expose: Inferring Worst-case Time Complexity By Automatic Empirical Study]({{ site.url }}/assets/seke2015a-kinneer-kapfhammer-wright-mcminn.pdf)
+
 Authors: Cody Kinneer, Gregory M. Kapfhammer, Chris J. Wright, and Phil McMinn 
 
 ## Presentations
