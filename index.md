@@ -4,6 +4,8 @@ title: Cody Kinneer
 ---
 {% include JB/setup %}
 
+![My helpful screenshot]({{ site.url }}/assets/CodyKinneer.jpg)
+
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
