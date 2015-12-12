@@ -6,6 +6,13 @@ title: Cody Kinneer
 
 ![Cody Kinneer]({{ site.url }}/assets/CodyKinneer.jpg)
 
+## About
+Welcome, my name is Cody Kinneer and I am a senior computer science major at
+[Allegheny College](http://www.allegheny.edu/). I am excited about discovery,
+and my research collaborations have resulted in published papers and released
+software. For more information, you can view my [curriculum vitae]({{ site.url }}/assets/cv.pdf) and [GitHub repositories](https://github.com/kinneerc). 
+
+
 ## Publications
 [Automatically Evaluating The Efficiency Of Search-based Test Data Generation For Relational Database Schemas]({{ site.url }}/assets/seke2015-kinneer-kapfhammer-wright-mcminn.pdf)
 
