@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cody Kinneer
+tagline: Graduate Research Assistant
+---
+{% include JB/setup %}
 
 ![Cody Kinneer]({{ site.url }}/assets/CodyKinneer.jpg)
 
