@@ -15,7 +15,7 @@ software. For more information, you can view my [curriculum vitae]({{ site.url }
 
 
 ## Publications
-[SchemaAnalyst: Search-based test data generation for relational database schemas]({{ site.url }}/assets/ICSME2016c-mcminn.pdf)
+[SchemaAnalyst: Search-based Test Data Generation for Relational Database Schemas]({{ site.url }}/assets/ICSME2016c-mcminn.pdf)
 
 Authors: Phil McMinn, Chris J. Wright, Cody Kinneer, Colton J. McCurdy, Michael Camara, and Gregory M. Kapfhammer
 
