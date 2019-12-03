@@ -15,6 +15,18 @@ software. For more information, you can view my [curriculum vitae]({{ site.url }
 
 
 ## Publications
+[Modeling observability in adaptive systems to defend against advanced persistent threats]({{ site.url }}/assets/memocode2019.pdf)
+
+Authors: Cody Kinneer, Ryan Wagner, Fei Fang, Claire Le Goues, and David Garlan
+
+[DARTSim: an exemplar for evaluation and comparison of self-adaptation approaches for smart cyber-physical systems]({{ site.url }}/assets/seams2019.pdf)
+
+Authors: Gabriel A. Moreno, Cody Kinneer, Ashutosh Pandey, and David Garlan
+
+[Dissimilarity Measures for Clustering Space Mission Architectures]({{ site.url }}/assets/models2018.pdf)
+
+Authors: Cody Kinneer and Sebastian J. I. Herzig
+
 [Managing Uncertainty in Self-Adaptive Systems with Plan Reuse and Stochastic Search]({{ site.url }}/assets/seams2018.pdf)
 
 Authors: Cody Kinneer, Zack Coker, Jiacheng Wang, David Garlan and Claire Le Goues
