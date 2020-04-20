@@ -11,8 +11,10 @@ tagline: Graduate Research Assistant
 Welcome, my name is Cody Kinneer and I am a software engineering PhD student at
 the [Institute for Software Research](http://www.isri.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). I am excited about discovery,
 and my research collaborations have resulted in published papers and released
-software. For more information, you can view my [curriculum vitae]({{ site.url }}/assets/ckinneer-cv.pdf) and [GitHub repositories](https://github.com/kinneerc). 
+software. For more information, you can view my [curriculum vitae]({{ site.url }}/assets/ckinneer-cv.pdf) and [GitHub repositories](https://github.com/kinneerc).
 
+## Thesis Proposal
+[Search-based Plan Reuse in Self-\* Systems]({{ site.url }}/assets/proposal.pdf)
 
 ## Publications
 [Modeling observability in adaptive systems to defend against advanced persistent threats]({{ site.url }}/assets/memocode2019.pdf)
