@@ -17,6 +17,10 @@ software. For more information, you can view my [curriculum vitae]({{ site.url }
 [Search-based Plan Reuse in Self-\* Systems]({{ site.url }}/assets/proposal.pdf)
 
 ## Publications
+[Building Reusable Repertoires for Stochastic Self-\* Planners]({{ site.url }}/assets/acsos2020.pdf)
+
+Authors: Cody Kinneer, Rijnard van Tonder, David Garlan, Claire Le Goues
+
 [Modeling observability in adaptive systems to defend against advanced persistent threats]({{ site.url }}/assets/memocode2019.pdf)
 
 Authors: Cody Kinneer, Ryan Wagner, Fei Fang, Claire Le Goues, and David Garlan
